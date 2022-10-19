@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+        <!ELEMENT sistema_solar (planeta*)>
+        <!ELEMENT planeta (nombre, satelite+, composicion?, posicion)>
+        <!ELEMENT nombre (#PCDATA)>
+        <!ELEMENT satelite (#PCDATA)>
+        <!ELEMENT composicion (#PCDATA)>
+        <!ELEMENT posicion (#PCDATA)>

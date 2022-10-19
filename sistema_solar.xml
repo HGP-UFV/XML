@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE sistema_solar SYSTEM "sistema_solardtd.dtd">
+<sistema_solar>
+    <planeta>
+        <nombre>Tierra</nombre>
+        <nombre>hgolaS</nombre>
+        <satelite>Luna</satelite>
+        <nombre>Tierra</nombre>>
+        <posicion>3</posicion>
+        <composicion>Agua y Tierra</composicion>
+    </planeta>
+
+    <planeta>
+        <nombre>Marte</nombre>
+        <satelite>Fobos</satelite>
+        <satelite>Deimos</satelite>
+        <posicion>4</posicion>
+    </planeta>
+</sistema_solar>
